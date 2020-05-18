@@ -71,8 +71,8 @@ app.get("/email",function(req,res) {
         from: 'XXXXXXXXX110@gmail.com',
         to: 'XXXXXXX@XXXXX.com',
         subject: 'Sending Email using Node.js',
-        text: `Hi Smartherd, thank you for your nice Node.js tutorials.
-                I will donate 50$ for this course. Please send me payment options.`,
+        text: `Hi Rashida,
+                    This is Assignments for LABELBLIND`,
         attachments:[
             {
                 filename:"demo1589822081969.csv",
